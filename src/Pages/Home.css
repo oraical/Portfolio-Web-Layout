@@ -1,0 +1,21 @@
+
+.body{
+    height: 100vh;
+    background-color: #565D9F;
+    display: flex;
+    flex-direction: row;
+    height: 85vh;
+}
+
+
+.left{
+    padding: 1rem;
+    width: 50vw;
+    background-color: aliceblue;
+}
+
+.right{
+    padding: 1rem;
+    width: 50vw;
+    background-color: aqua;
+}
